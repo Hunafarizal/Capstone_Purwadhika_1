@@ -1,0 +1,5 @@
+2,Garunix,70.0,69.5,70.5,Pass
+3,Marika,80.0,75.6,60.0,Pass
+4,Ava,80.1,55.6,85.0,Pass
+5,Yerin,50.5,40.0,90.0,Fail
+1,Maliki,95.0,90.0,100.0,Pass
