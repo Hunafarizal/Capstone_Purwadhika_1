@@ -1,5 +1,5 @@
-2,Garunix,70.0,69.5,70.5,Pass
-3,Marika,80.0,75.6,60.0,Pass
-4,Ava,80.1,55.6,85.0,Pass
-5,Yerin,50.5,40.0,90.0,Fail
-1,Maliki,95.0,90.0,100.0,Pass
+2217762309,Hunafa Rizal,90.0,85.5,70.0,Pass
+2351167230,Yerin Baek,70.0,69.5,70.0,Fail
+2671195661,Kameel Rokok Bootleg,69.5,70.0,70.5,Pass
+2611400928,Billy Bong Kristen,95.5,100.0,40.0,Pass
+2541162627,Marika Mayonaise,60.0,82.5,55.25,Fail
